@@ -6,4 +6,5 @@ Below I have credited the artists for in-game sprites and audio.
 Credits:
 
 Pixel art by PixelFrog          
-Audio by SVL
+Songs by SVL
+Audio Effects by freesound.org
